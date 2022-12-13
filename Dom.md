@@ -16,3 +16,4 @@
 Git checkoat - переход к другой ветке
 git branch -d - удалить ветку
 Git merge- слияние веток
+git clear - удаление
